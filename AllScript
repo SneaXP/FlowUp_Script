@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SneaXP/FlowUp/main/script_flowup"))()
